@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background: linear-gradient(blue,orange )
+}
+p{
+    text-align: center;
+}
+button {
+  margin: 0 auto;
+  display: block;
+  height:100px;
+  width:200px;
+  background-color:#071A71;
+  border-radius: 20px;
+}
+img{
+    display: block; margin: 0 auto;
+}
